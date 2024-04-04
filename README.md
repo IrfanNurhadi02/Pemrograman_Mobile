@@ -16,7 +16,7 @@
 
    ```sh
 
-   cd tugas-praktikum-pp-2020
+   cd tugas-praktikum-pm07
    git branch NIM_ANDA
    git checkout NIM_ANDA
    git config user.name USERNAME_GITHUB
