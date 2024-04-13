@@ -4,7 +4,7 @@
     android:layout_width="137dp"
     android:layout_height="137dp"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:src="@drawable/antony_post"
+    tools:src="@drawable/kajal"
     android:scaleType="fitXY"
     android:padding="2dp"
     xmlns:android="http://schemas.android.com/apk/res/android" />
