@@ -46,6 +46,7 @@ public class DetailActivity extends AppCompatActivity {
             intent.putExtra("posts", dataClasses);
             intent.putExtra("stories", stories);
             intent.putExtra("idUser", idUser);
+
             startActivity(intent);
         });
     }
