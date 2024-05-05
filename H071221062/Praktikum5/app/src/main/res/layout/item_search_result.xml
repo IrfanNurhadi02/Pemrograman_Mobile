@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="8dp">
+
+    <ImageView
+        android:id="@+id/userprofile"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/ironman"
+        android:scaleType="centerCrop"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"/>
+
+    <TextView
+        android:id="@+id/user_fullname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Username"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_toEndOf="@id/userprofile"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="4dp"
+        android:layout_alignTop="@id/userprofile"/>
+
+    <TextView
+        android:id="@+id/user_username"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/user_fullname"
+        android:text="User's Username"
+        android:textSize="16sp"
+        android:layout_toEndOf="@id/userprofile"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="4dp"/>
+
+
+
+
+
+
+</RelativeLayout>
