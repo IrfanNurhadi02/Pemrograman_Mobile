@@ -1,4 +1,4 @@
-# Repositori Tugas Praktikum Pengantar Pemrograman 2020
+# Repositori Tugas Praktikum Pengantar Pemrograman 2024
 
 ## Alur pengumpulan tugas ke repositori ini
 
